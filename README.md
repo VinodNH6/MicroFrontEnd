@@ -1,14 +1,14 @@
 # MicroFrontEnd
 
-remote:
+remote
+> npm install\
+> npm start //runs at localhost:3002
 
-npm install
-npm start //runs at localhost:3002
+host
+> npm install\
+> npm start //runs at localhost:3000
 
-host:
+then, u see the host module showing contents of remote module.
 
-npm install
-npm start //runs at localhost:3000
-
-then, u see host showing contents of remote.
+https://github.com/module-federation/module-federation-examples/tree/master/cra
 
